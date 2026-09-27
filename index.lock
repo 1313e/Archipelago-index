@@ -1920,6 +1920,9 @@
 [star_fox_64]
 "0.4.1" = "6afffee141a3c4e9c1656de90c57af3c2ee926591cb24c6fa858168f5ad8e51c"
 
+[starship_titanic]
+"0.2.3" = "44b5c434f14d9790cd7755323c5e429ce7630f9c60212e2eab3800546d46fcd3"
+
 [stick_ranger]
 "1.8.2" = "b4bda396e778d33dacf187d79627966b0878705efece6b4328edde39e8deaf78"
 
