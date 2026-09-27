@@ -1472,6 +1472,9 @@
 [pikmin]
 "0.1.0" = "8a909e0b4dd392051298bb996b6a5831a9178d525ed0c0f5912fb9bff4d90cda"
 
+[pikuniku]
+"0.3.1" = "25ff30bd790666d810ae5764338c0bbcd9d8ba3f9bcc22bfae45ce68f7c6c373"
+
 [pinball_fx]
 "1.0.0+hotfix1" = "57329e34d0786f2c53ede663ffd8ceb77e616fac248c5f47d51447781202cf2b"
 
