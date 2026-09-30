@@ -2212,6 +2212,9 @@
 [wordsearch]
 "0.0.1" = "ebce6adef710eb1d2a0ee624c688a7d82a884d4e0f181c039f3b0f3b55934daf"
 
+[wynncraft]
+"0.4.5" = "4e65aee6926761d24d72e5e01a7a955fef75433e6ccdb6ca4c3889ffca8183ab"
+
 [x2wotc]
 "0.7.5-alpha" = "44499d9a20e2b7acd46148f8f8a2e31530c66f0febb4c4fd4dbbcc84b9f2676f"
 "0.9.1-beta" = "d0f24f18ccb75c6df403ecf514b67c12fba6eb3cd61afa609dcafb9722b5d9c4"
